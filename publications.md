@@ -19,11 +19,11 @@ Materials Science and Engineering, vol. 1140, no. 1, 2021. [Paper](https://doi.o
 <hr/>
 ### 2019
 
-- F. Von Drigalski, C. Schlette, M. Rudorfer, N. Correll, J. C. Triyonoputro, W. Wan, T. Tsuji and T. Watanabe, **‘Robots assembling machines: Learning from the world robot summit 2018 assembly challenge,’** Advanced Robotics, vol. 34, no. 7-8, pp. 408–421, 2020.
-- M. Ziegler, M. Rudorfer, X. Kroischke, S. Krone and J. Krüger, **‘Point pair feature matching: Evaluating methods to detect simple shapes,’** in International Conference on Computer Vision Systems, Springer, 2019, pp. 445–456.
+- F. Von Drigalski, C. Schlette, M. Rudorfer, N. Correll, J. C. Triyonoputro, W. Wan, T. Tsuji and T. Watanabe, **‘Robots assembling machines: Learning from the world robot summit 2018 assembly challenge,’** Advanced Robotics, vol. 34, no. 7-8, pp. 408–421, 2020. [Paper](https://arxiv.org/abs/1911.05884)
+- M. Ziegler, M. Rudorfer, X. Kroischke, S. Krone and J. Krüger, **‘Point pair feature matching: Evaluating methods to detect simple shapes,’** in International Conference on Computer Vision Systems, Springer, 2019, pp. 445–456. [Poster (pdf)](assets/publications/2019-icvs-poster.pdf)
 - M. Rudorfer, L. Neumann and J. Krüger, **‘Towards learning 3d object detection and 6d pose estimation from synthetic data,’** in 2019 24th IEEE International Conference on Emerging Technologies and Factory Automation (ETFA), IEEE, 2019, pp. 1540–1543.
 - O. Kröger, J. Guhl, O. Heimann, M. Katanacho, C. Niebuhr, M. Rudorfer, T. Özkaya, J. Wassermann, J. Hügle, T. Pannen and J. Krüger, **‘A service-oriented robotic manufacturing system: Lessons learned from participating in the world robot challenge 2018,’** in Tagungsband des 4. Kongresses Montage Handhabung Industrieroboter, Springer, 2019, pp. 44–53.
-- M. Rudorfer, C. Krause, A. Vick and J. Krüger, **‘Dienstebasierte Architekturen f  ̈ur Robotersysteme [service-based architectures for robot systems],’** Fortschritt-Berichte Fertigungstechnik: Produktion 2030 - Wandel in der Automatisierungstechnik, 2019.
+- M. Rudorfer, C. Krause, A. Vick and J. Krüger, **‘Dienstebasierte Architekturen für Robotersysteme [service-based architectures for robot systems],’** Fortschritt-Berichte Fertigungstechnik: Produktion 2030 - Wandel in der Automatisierungstechnik, 2019.
 
 <hr/>
 ### 2018
