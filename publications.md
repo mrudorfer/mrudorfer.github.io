@@ -6,6 +6,7 @@ If you would like to read, comment or discuss any of these works, please do not 
 <hr/>
 ### 2022
 
+- M. Rudorfer, M. Suchi, M. Sridharan, M. Vincze and A. Leonardis, **‘BURG-Toolkit: Robot Grasping Experiments in Simulation and the Real World,’** ICRA Workshop on Releasing Robots into the Wild, 2022. [Project Page](https://mrudorfer.github.io/burg-toolkit/)
 - A. Alliegro, M. Rudorfer, F. Frattin, A. Leonardis and T. Tommasi, **‘End-to-end learning to grasp from object point clouds,’** under review for IEEE RA-L/IROS, 2022. [Paper](https://arxiv.org/abs/2203.05585), [Code](https://github.com/antoalli/L2G/)
 
 
@@ -29,8 +30,9 @@ Materials Science and Engineering, vol. 1140, no. 1, 2021. [Paper](https://doi.o
 ### 2018
 
 - M. Rudorfer, T. J. Pannen and J. Krüger, **‘A case study on granularity of industrial vision services,’** in Proceedings of the 2nd International Symposium on Computer Science and Intelligent Control, Best Student Paper Award, 2018, pp. 1–6
+- M. Rudorfer, J. Guhl, P. Hoffmann and J. Krüger, **‘Holo pick’n’place,’** in 2018 IEEE 23rd International Conference on Emerging Technologies and Factory Automation (ETFA), IEEE, vol. 1, 2018, pp. 1219–1222
 - M. Rudorfer and J. Krüger, **‘Industrial image processing applications as orchestration of web services,’** Procedia CIRP, vol. 76, pp. 144–148, 2018.
-- M. Rudorfer and M. Chemnitz, **‘Dienstebasierte Integration objekt-spezifischer Lageerkennungsalgorithmen am Beispiel eines roboterbasierten Greifszenarios [service-based integration of object-specific pose detection methods for a robotic grasping scenario],’** Fortschritt-Berichte Fertigungstechnik: Industrie 4.0 - Wertsch  ̈opfungspotenziale in der dienstebasierten Produktion, 2018.
+- M. Rudorfer and M. Chemnitz, **‘Dienstebasierte Integration objekt-spezifischer Lageerkennungsalgorithmen am Beispiel eines roboterbasierten Greifszenarios [service-based integration of object-specific pose detection methods for a robotic grasping scenario],’** Fortschritt-Berichte Fertigungstechnik: Industrie 4.0 - Wertschöpfungspotenziale in der dienstebasierten Produktion, 2018.
 
 <hr/>
 ### 2016
