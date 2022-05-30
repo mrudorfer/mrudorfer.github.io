@@ -37,7 +37,7 @@ Materials Science and Engineering, vol. 1140, no. 1, 2021. [Paper](https://doi.o
 <hr/>
 ### 2016
 
-- M. Rudorfer and X. Kroischke, **‘Evaluation of point pair feature matching for object recognition and pose determination in 3d scenes,’** in 19. Anwendungsbezogener Workshop zur Erfassung, Modellierung, Verarbeitung und Auswertung von 3D-Daten, GFaI Gesellschaft zur F  ̈orderung angewandter Informatik e.V., 2016, pp. 27–36.
+- M. Rudorfer and X. Kroischke, **‘Evaluation of point pair feature matching for object recognition and pose determination in 3d scenes,’** in 19. Anwendungsbezogener Workshop zur Erfassung, Modellierung, Verarbeitung und Auswertung von 3D-Daten, GFaI Gesellschaft zur Förderung angewandter Informatik e.V., 2016, pp. 27–36.
 
 <hr/>
 ### 2015
