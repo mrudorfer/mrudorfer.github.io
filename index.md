@@ -12,7 +12,7 @@ Currently, I am working on a research project for benchmarking and understanding
 We published our BURG-Toolkit for Benchmarking and Understanding Robotic Grasping and presented it at the [ICRA 2022 Workshop on Releasing Robots into the Wild](https://www.dynsyslab.org/releasing-robots-into-the-wild-workshop/).<br/>
 paper: [arxiv.org/abs/2205.14099](https://arxiv.org/abs/2205.14099)<br/>
 project webpage: [github.io/mrudorfer/burg-toolkit](https://github.io/mrudorfer/burg-toolkit)<br/>
-presentation: [youtube.com/watch?v=hsEkcbFItRQ&t=14201s](https://www.youtube.com/watch?v=hsEkcbFItRQ&t=14201s)
+presentation: [youtu.be/YumzQBb26sI?t=1560](https://youtu.be/YumzQBb26sI?t=1560)
 
 <img style='height: 100%; width: 100%; object-fit: contain' src="/assets/img/burg-toolkit.png" alt="burg toolkit"/>
 
