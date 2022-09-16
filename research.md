@@ -7,7 +7,7 @@ One aspect of that is the benchmarking of grasping and manipulation methods to f
 
 <!-- future research?? -->
 
-This page introduces some of those topics in a bit more detail.
+Follow the links in the pictures to learn more about the topics.
 
 
 <!-- only show pictures here, make them clickable to go to site with some more detail -->
@@ -15,26 +15,28 @@ This page introduces some of those topics in a bit more detail.
 <hr/>
 ### data-driven robotic grasping
 
+
 - some current stuff
 
 
 <hr/>
 ### robotic assembly
 
-- WRC stuff
-- perhaps hololens?
+<a href="/research/robotic-assembly"><img style='height: 100%; width: 100%; object-fit: contain' src="/assets/img/wrc-taskboard.jpg" alt="taskboard"/></a>
+
 
 
 <hr/>
 ### service-based architectures for machine vision
 
-- some pictures from my thesis
+<a href="/research/industrial-vision-services"><img style='height: 100%; width: 100%; object-fit: contain' src="/assets/img/thesis-gist.png" alt="taskboard"/></a>
+
 
 
 <hr/>
 ### object detection and 6d pose estimation
 
-- some point pair feature matching
-- some synthetic stuff
+- point pair feature matching
+- render and compose synthetic images to generate training data for Deep-Learning-based methods
 
 
