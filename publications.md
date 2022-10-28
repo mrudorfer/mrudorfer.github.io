@@ -7,7 +7,7 @@ If you would like to read, comment or discuss any of these works, please do not 
 ### 2022
 
 - M. Rudorfer, M. Suchi, M. Sridharan, M. Vincze and A. Leonardis, **‘BURG-Toolkit: Robot Grasping Experiments in Simulation and the Real World,’** ICRA Workshop on Releasing Robots into the Wild, 2022. [Project Page](https://mrudorfer.github.io/burg-toolkit/)
-- A. Alliegro, M. Rudorfer, F. Frattin, A. Leonardis and T. Tommasi, **‘End-to-end learning to grasp from object point clouds,’** under review for IEEE RA-L/IROS, 2022. [Paper](https://arxiv.org/abs/2203.05585), [Code](https://github.com/antoalli/L2G/)
+- A. Alliegro, M. Rudorfer, F. Frattin, A. Leonardis and T. Tommasi, **‘End-to-end learning to grasp from object point clouds,’** in IEEE Robotics and Automation Letters, vol. 7, no. 4, pp. 9865-9872, Oct. 2022. [Paper](https://arxiv.org/abs/2203.05585), [Code](https://github.com/antoalli/L2G/)
 
 
 <hr/>

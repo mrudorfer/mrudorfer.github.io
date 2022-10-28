@@ -1,13 +1,21 @@
 ## hi!
 
-I am a Postdoctoral Research Fellow in the [Intelligent Robotics Lab](https://www.birmingham.ac.uk/research/activity/computer-science/artificial-intelligence/intelligent-robotics-lab/index.aspx) at [Unviersity of Birmingham](https://www.birmingham.ac.uk/).
-My research area includes robotics and computer vision.
-Currently, I am working on a research project for benchmarking and understanding robotic grasping.
+I am a Lecturer in Computer Science at [Aston University](https://aston.ac.uk), Birmingham.
+My research areas include robotic grasping and manipulation, reproducibility in robotics research, and ethical considerations in robotics & AI.
+I am also part of the [Autonomous Robotics and Perception Laboratory](https://cs.aston.ac.uk/arp).
 
 <hr/>
 ### news
 
+**2022-10**<br/>
+I got invited to a discussion about teaching in higher education at my former university [TU Berlin](https://www.zewk.tu-berlin.de/v_menue/wissenschaftliche_weiterbildung/lehren_und_lernen/lunch_fuer_gute_lehre/). Back then I participated in many great workshops and was able to get the qualified teaching certificate. It was great to meet former friends and colleagues and be part of the discussion!
 
+<br/>
+**2022-10**<br/>
+I am starting a new position as Lecturer (Assistant Professor) in Computer Science at Aston University!
+I am delighted to join the team here at Aston and look forward to fruitful collaborations with my new colleagues. Moreover, I am happy to get back to teaching and supervising students again. A new part of my work will now also be writing project proposals, acquiring research funding, and at some point supervising my first PhD students!
+
+<br/>
 **2022-05**<br/>
 We published our BURG-Toolkit for Benchmarking and Understanding Robotic Grasping and presented it at the [ICRA 2022 Workshop on Releasing Robots into the Wild](https://www.dynsyslab.org/releasing-robots-into-the-wild-workshop/).<br/>
 paper: [arxiv.org/abs/2205.14099](https://arxiv.org/abs/2205.14099)<br/>
